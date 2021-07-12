@@ -1,2 +1,2 @@
 # Ignore all of the log files already present
-logs/*
+logs/*.log.gz

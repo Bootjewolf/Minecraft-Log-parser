@@ -27,4 +27,4 @@ concat.py is a python script for concatting multiple log files. When you want to
 
 
 ### extractData.py:
-This python script extracts data fromm the log files. See below for which data it will extract.
+This python script extracts data from the log files. See below for which data it will extract.
